@@ -1,0 +1,18 @@
+{
+    "configs": [
+        {
+            "id": "com.github.wgh136.venera",
+            "url": "https://github.com/venera-app/venera",
+            "author": "Venera",
+            "name": "Venera",
+            "additionalSettings": "{\"apkFilterRegEx\": \"venera-[0-9.]+\\\\.apk$\"}"
+        }
+    ],
+    "icon": "https://github.com/venera-app.png",
+    "categories": [
+        "anime_and_manga"
+    ],
+    "description": {
+        "en": "Open-source comic reader for Android and desktop."
+    }
+}
