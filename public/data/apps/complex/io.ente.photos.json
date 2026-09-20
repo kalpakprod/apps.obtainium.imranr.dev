@@ -1,0 +1,18 @@
+{
+    "configs": [
+        {
+            "id": "io.ente.photos",
+            "url": "https://github.com/ente/ente",
+            "author": "Ente",
+            "name": "Ente Photos",
+            "additionalSettings": "{\"filterReleaseTitlesByRegEx\": \"photos-.*\", \"apkFilterRegEx\": \"ente-photos-.*\\\\.apk$\"}"
+        }
+    ],
+    "icon": "https://github.com/ente.png",
+    "categories": [
+        "image_viewer_and_gallery"
+    ],
+    "description": {
+        "en": "End-to-end encrypted photo backup and gallery."
+    }
+}
