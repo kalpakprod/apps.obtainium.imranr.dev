@@ -1,0 +1,15 @@
+{
+    "config": {
+        "id": "com.zcshou.gogogo",
+        "url": "https://github.com/ZCShou/GoGoGo",
+        "author": "ZCShou",
+        "name": "GoGoGo"
+    },
+    "icon": "https://raw.githubusercontent.com/ZCShou/GoGoGo/master/app/src/main/ic_launcher-playstore.png",
+    "categories": [
+        "utilities"
+    ],
+    "description": {
+        "en": "Virtual location tool based on the Android debug API."
+    }
+}
