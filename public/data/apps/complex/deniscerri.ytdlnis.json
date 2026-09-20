@@ -1,0 +1,18 @@
+{
+    "configs": [
+        {
+            "id": "deniscerri.ytdlnis",
+            "url": "https://github.com/deniscerri/ytdlnis",
+            "author": "deniscerri",
+            "name": "YTDLnis",
+            "additionalSettings": "{\"apkFilterRegEx\": \"YTDLnis-.*-foss-universal-release\\\\.apk$\"}"
+        }
+    ],
+    "icon": "https://github.com/deniscerri.png",
+    "categories": [
+        "downloader_and_manager"
+    ],
+    "description": {
+        "en": "Material You front-end for yt-dlp: download video and audio from many sites."
+    }
+}
