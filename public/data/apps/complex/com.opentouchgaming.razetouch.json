@@ -1,0 +1,18 @@
+{
+    "configs": [
+        {
+            "id": "com.opentouchgaming.razetouch",
+            "url": "http://opentouchgaming.com/zeta-touch/",
+            "author": "Open Touch Gaming",
+            "name": "Zeta Touch",
+            "additionalSettings": "{\"versionExtractionRegEx\": \"zeta-touch-release_v([0-9.]+)\\\\.apk\", \"matchGroupToUse\": \"$1\", \"versionExtractWholePage\": true, \"allowInsecure\": true}"
+        }
+    ],
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Zeta Touch: EDuke32-based Android port for Duke Nukem 3D, Blood, Shadow Warrior, Ion Fury, Redneck Rampage and more. Requires original game files."
+    },
+    "icon": "http://opentouchgaming.com/wp/wp-content/uploads/2022/01/ic_launcher-playstore.png"
+}
