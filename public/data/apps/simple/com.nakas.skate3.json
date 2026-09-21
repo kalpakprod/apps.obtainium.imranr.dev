@@ -1,0 +1,15 @@
+{
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Skate 3 on Android: the app shell around the native recompilation. Bring your own disc image."
+    },
+    "icon": "https://raw.githubusercontent.com/andrewnakas/skate3-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "config": {
+        "id": "com.nakas.skate3",
+        "url": "https://github.com/andrewnakas/skate3-android",
+        "author": "andrewnakas",
+        "name": "Skate 3 Android"
+    }
+}
