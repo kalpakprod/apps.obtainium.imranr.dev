@@ -1,0 +1,18 @@
+{
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Doom, Wolfenstein RPG series, Doom64 EX+, PsyDoom, UZDoom, Perfect Dark, Arx Libertatis,  FTEQW (quake 1, quake2, quake 3, hexen 2), Widelands, Vanilla-Conquer (C&C Tiberiawn Dawn and C&C Red Alert),"
+    },
+    "icon": "https://raw.githubusercontent.com/sandstranger/com.mobilerpgpack.phone/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "configs": [
+        {
+            "id": "com.mobilerpgpack.phone",
+            "url": "https://github.com/sandstranger/com.mobilerpgpack.phone",
+            "author": "sandstranger",
+            "name": "Classic Core",
+            "additionalSettings": "{\"apkFilterRegEx\": \"^Classic_Core_google_release_arm.*v8a_v.*b.*apk$\"}"
+        }
+    ]
+}
