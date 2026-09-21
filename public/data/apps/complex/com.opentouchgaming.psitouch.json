@@ -1,0 +1,18 @@
+{
+    "configs": [
+        {
+            "id": "com.opentouchgaming.psitouch",
+            "url": "http://opentouchgaming.com/psi-touch/",
+            "author": "Open Touch Gaming",
+            "name": "Psi Touch",
+            "additionalSettings": "{\"versionExtractionRegEx\": \"psitouch-v([0-9.]+)\\\\.apk\", \"matchGroupToUse\": \"$1\", \"versionExtractWholePage\": true, \"allowInsecure\": true}"
+        }
+    ],
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Psi Touch: Android port for Star Wars: Dark Forces, Jedi Knight II: Jedi Outcast and Jedi Academy. Requires original game files."
+    },
+    "icon": "http://opentouchgaming.com/wp/wp-content/uploads/2026/06/ic_launcher_round.png"
+}
