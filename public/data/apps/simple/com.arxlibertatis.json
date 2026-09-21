@@ -1,0 +1,15 @@
+{
+    "config": {
+        "id": "com.arxlibertatis",
+        "url": "https://f-droid.org/packages/com.arxlibertatis/",
+        "author": "sandstranger",
+        "name": "Arx Libertatis"
+    },
+    "icon": "https://f-droid.org/repo/com.arxlibertatis/en-US/icon_TBnl8Q1iuq1yulCo7o-lHSzNg7-DAIKdxLIXGx25b7I=.png",
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Android port of Arx Libertatis, the open-source cross-platform port of Arx Fatalis. Requires original game files."
+    }
+}
