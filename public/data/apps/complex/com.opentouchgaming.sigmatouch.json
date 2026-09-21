@@ -1,0 +1,17 @@
+{
+    "configs": [
+        {
+            "id": "com.opentouchgaming.sigmatouch",
+            "url": "http://opentouchgaming.com/sigma-touch/",
+            "author": "Open Touch Gaming",
+            "name": "Sigma Touch",
+            "additionalSettings": "{\"versionExtractionRegEx\": \"sigmatouch-v([0-9.]+)\\\\.apk\", \"matchGroupToUse\": \"$1\", \"versionExtractWholePage\": true, \"allowInsecure\": true}"
+        }
+    ],
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Sigma Touch: Android port for Unreal, Unreal Tournament 99, Alien vs Predator 2 and Quake 4. Requires original game files."
+    }
+}
