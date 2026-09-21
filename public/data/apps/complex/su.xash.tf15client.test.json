@@ -1,0 +1,18 @@
+{
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Team Fortress Classic reverse-engineered."
+    },
+    "icon": "https://raw.githubusercontent.com/Velaron/tf15-client/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "configs": [
+        {
+            "id": "su.xash.tf15client.test",
+            "url": "https://github.com/Velaron/tf15-client",
+            "author": "Velaron",
+            "name": "TF15Client",
+            "additionalSettings": "{\"includePrereleases\": true}"
+        }
+    ]
+}
