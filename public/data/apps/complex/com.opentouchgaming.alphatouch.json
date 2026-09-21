@@ -1,0 +1,18 @@
+{
+    "configs": [
+        {
+            "id": "com.opentouchgaming.alphatouch",
+            "url": "http://opentouchgaming.com/alpha-touch/",
+            "author": "Open Touch Gaming",
+            "name": "Alpha Touch",
+            "additionalSettings": "{\"versionExtractionRegEx\": \"Alpha_Touch_v([0-9.]+)\\\\.apk\", \"matchGroupToUse\": \"$1\", \"versionExtractWholePage\": true, \"allowInsecure\": true}"
+        }
+    ],
+    "categories": [
+        "games"
+    ],
+    "description": {
+        "en": "Alpha Touch: Android source port for Blake Stone, Wolfenstein 3D, Rise of the Triad, Medal of Honor: Allied Assault and Return to Castle Wolfenstein. Requires original game files."
+    },
+    "icon": "http://opentouchgaming.com/wp/wp-content/uploads/2025/01/ic_launcher_round-1.png"
+}
